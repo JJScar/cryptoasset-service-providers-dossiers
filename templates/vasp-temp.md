@@ -12,22 +12,22 @@
 
 ## 3. Business Model
 - Exchange / Custodian / OTC Desk / On-Ramp  
-- Services offered: 
+- **Services offered:** 
 
 ## 4. Compliance Controls
-- Public info on KYC / AML: 
-- Travel Rule implementation: 
-- Sanctions compliance: 
+- **Public info on KYC / AML:**
+- **Travel Rule implementation:**
+- **Sanctions compliance:**
 
 ## 5. On-Chain Footprint
-- Labeled wallets (if available):  
+- **Labeled wallets:**  
   - Example: `0x...` (tagged as Binance Hot Wallet on Etherscan)  
-- Disclaimer: Explorer labels are indicative, not official.  
+- **Disclaimer:** Explorer labels are indicative, not official.  
 
 ## 6. Risk Indicators
-- Jurisdiction risk:  
-- Enforcement history:  
-- Media reports:  
+- **Jurisdiction risk:**  
+- **Enforcement history:**  
+- **Media reports:**  
 
 ## 7. Counterparty Assessment
 - **Risk Level (1–5):**  

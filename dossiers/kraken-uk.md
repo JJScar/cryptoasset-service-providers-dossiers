@@ -1,7 +1,7 @@
 # VASP Dossier: Payward Ltd (Kraken UK)
 
 ## 1. Basic Information
-- **Entity Name / Trading Names:** Payward Ltd (trading as Kraken), Kraken Exchange, Kraken Digital Asset Exchange
+- **Entity Name / Trading Names:** Payward Ltd (trading as Kraken).
 - **Jurisdiction & Incorporation:** Incorporated in England & Wales, 2013. Company number 08593670. Registered office: 6th Floor, One London Wall, London, EC2Y 5EB.
 - **Website:** https://www.kraken.com/en-gb
 
