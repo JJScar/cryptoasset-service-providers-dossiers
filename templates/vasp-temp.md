@@ -35,5 +35,5 @@
 
 ## 8. Sources
 - [Link to FCA register]  
-- [Link to Companies House entry]  
+- [Link to Companies House entry]
 - [News article link]  
